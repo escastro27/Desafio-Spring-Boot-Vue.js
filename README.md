@@ -1,23 +1,15 @@
 # vue-js-client-crud
 
-## Project setup
+###Aplicação feita com vue.js para criação de crud de tutoriais. Faz conjunto com a aplicação tutorials-backend.
+
+## Configuração do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Execução
 ```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
